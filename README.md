@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-BADBOI-v1 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Joshua-V1 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by Joshua<a href="https://github.com/Joshua-V1" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
-BADBOI V1 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+Joshua-V1 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or use as base bot, dont forget to give credits. BADBOI Rulez😶
+If you clone my repo or use as base bot, dont forget to give credits. Okoye Joshua 🌝
 
 
 
@@ -20,7 +20,7 @@ If you clone my repo or use as base bot, dont forget to give credits. BADBOI Rul
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/BADBOI-v1/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?color=red&style=flat-square"></a>
+<a href="https://github.com/Joshua-V1/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?color=red&style=flat-square"></a>
 <a href="https://github.com/BADBOI-v1/BADBOI-v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBOI-v1/BLACK-SPIDER-V1?color=blue&style=flat-square"></a>
 <a href="https://github.com/BADBOI-v1/BADBOI-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/BLACK-SPIDER-V1?color=red&style=flat-square"></a>
 <a href="https://github.com/BADBOI-v1/BADBOI-v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBOI-v1/BLACK-SPIDER-V1?label=Watchers&color=blue&style=flat-square"></a>
@@ -35,23 +35,23 @@ If you clone my repo or use as base bot, dont forget to give credits. BADBOI Rul
 -------
 
 <a 
-href='https://wa.me/2348140825959' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+href='https://wa.me/2349115983460' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://chat.whatsapp.com/Ek55y9kQcFTKO8BtUT0RfH' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 
-<a href='https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://chat.whatsapp.com/Ek55y9kQcFTKO8BtUT0RfH' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 
 
 #### SETUP
 
 1. Fork the repo
     <br>
-<a href="https://github.com/BADBOI-v1/BADBOI-v1/fork"><img title="BADBOI-v1" src="https://img.shields.io/badge/FORK_BADBOI-_v1-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Jo-byte-hub/Joshua-V1/fork"><img title="BADBOI-v1" src="https://img.shields.io/badge/FORK_B-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ## `Generate Pair Code For Session`
  
-[`Badboi-v1 Pairing Using Render`](https://creds-json-paring-generator-by-badboi-2.onrender.com)
+[`Joshua-V1 Pairing Using Render`](https://creds-json-paring-generator-by-badboi-2.onrender.com)
 
-[`Badboi-v1 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
+[`Joshua-V1 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 
 -------
 ## ```YOUTUBE CHANNEL FOR TUTORIALS```
